@@ -1,0 +1,19 @@
+{
+  "name": "vendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NaGoo",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "firebase": "^8.1.2",
+    "firebase-admin": "^9.4.1",
+    "moment": "^2.29.1",
+    "my-library": "^1.0.0",
+    "xlsx": "^0.16.9"
+  }
+}

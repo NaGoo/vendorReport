@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ra-dev-mechapp",
+  "private_key_id": "9226f801c92ce54981d94d0c99f62eab7b1a0137",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMl83oZpFiUoJ9\nLg19R+3XpdiGD48q8xtUgfKTM2sgzSZaICcYN8LK/eLlucEIKV6yQwYwASCsmxgV\n4Mj91bijSrIDWh1PwIWBpvoKCX7kspqcMLaGEzpntyyB0JKe6m1WUpTwdyR8iWj6\nAXjRpnU5NLIkpfzRaxqQIlqanUWNoPRssEiBmGNVg0dxb/lCW0xz6hutJZO2HwOM\nPE+m1XU1LqZ/BoT2EXDVMFmaRNfxfGCpmBMpCsnuSejtVsgGD9e6vEDzioHUHqu7\nmE8Sb1brEAit5XXEmbu1HpaM5AMW+wNcaYJoGb/M76457FNWfo7aYhASV5IOIWlB\nSoLn3ng7AgMBAAECggEAN66PG1Oi+NQE8KXShQjJChp4ghAFAob0przRNM/XNa+v\n4vKCQVyXtuB/Ws+B4kNEIxcLvY/pASEa3oV1nmQG4uZG6ZOii5yVmVJFFes8rmiP\nnLfDTV05VZXsVo5aAUdDJ63FHGcItp49RGGXLNP1bnLRkxjb5HEWYyj+aLsp/V/W\nLpztd1WbdWnGzjpGOMORKivc+7BTzewGScVJvfA45Q77oFtes9iTxVjrh/9lkDWZ\nVtTT+Arfchnu5kaVDrNpqqOPY7NfSZQCh0HIoH6oSYpLFEVpzkB+Dn5rOLRLSWBx\nF+tFt1fLateZ7+TurGfX83ByBs5f5Myq7YIlus//WQKBgQD+jqSIycnBHRDFQ3d6\ndJQEMaqE2rer6FNN8vcpEhGfAFQB+6ZLeVHm+eSqNoKYrtPm7IMM6IH3EU+1GgkD\nPC1lmXADA7tg0nQUxoyz2gy5wG/DQJH5vaWkdwPdN0a4zjtrp77npqjOIbzod25Y\nKUAsEOv+Y3MEXErDmHu2mzx+2QKBgQDNwKog7KF9ldCQqUl5LynvkhlAS/DqgXpx\nJZ9+L6MbqWufZ+01jwsyTpDUmZbWOgIirxfXJD2YQTe0CpGWS+e1PCBx0VAx3UVn\nAjAVyZJrGhG2Xd5UkcvR9nw9U4agp9aV/EQpNBUVbR+DtYxGfolZ/e+OnJg7EHbX\nHaw2SWDrMwKBgQD0PqV8YjFlS6AlxkBDjMvg4k68vqdxGK+loTSpgZ7KsyPn6y96\nR2PgfXF8KGVSXp0Pe2ua3RSmnUOffuWa5wif7YNeQRxvID8lGAU1JEkFibEy5Ser\nOt5OWaupfDotZCP7fa5c0roxXonFe6KykJH0NiBZq85WJr/NwOcjJPv8sQKBgQCw\nXSV3c145t+E/HtzL85GOuTzL0EyBttqtggJkt5CodWC7EupRrnt6c73RfpW8q5yI\n/m0BDR9/Eugce7KvkgDbaN6msTR8iZ6j3Uw6YL4Q8BeeqneZJh//qbh1GNOdgkB9\n7+69Itevtgn9a/EBvBUf/nsJU1Fpz4MOgXDMV7mr4QKBgFzWim5hJrsyEObdCZ6W\nNsTD8LNvHnzhn96Lm+G6NMo1bhLLQwayvMQXg6110ZThROTTtUeJetPen9mVdsY5\nDt1Hf2MOoDi2Eczdk/vC2LSn5LKERDm0HSqVGVToMtQk9nMj8MxiCUtsaSe+H89/\nLQpQLpk7EQIlxQU5Z9jp3JNc\n-----END PRIVATE KEY-----\n",
+  "client_email": "vendor-data-fetch@ra-dev-mechapp.iam.gserviceaccount.com",
+  "client_id": "117144235918336922363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vendor-data-fetch%40ra-dev-mechapp.iam.gserviceaccount.com"
+}
